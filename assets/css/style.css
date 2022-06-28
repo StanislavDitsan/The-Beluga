@@ -117,18 +117,32 @@ h1, h2, h3, p {
     background-position: center;
     animation-name: banner;
     animation-duration: 6s;
-    animation-fill-mode: both;
+    animation-fill-mode: forwards;
     animation-direction: alternate-reverse;
     animation-play-state: running;
+    position: absolute;
 }
 
 /* Banner keyframes */
 @keyframes banner {
     from {
-        transform: scale(0.9);
+        transform: scale(.9);
     }
 
     to {
-        transform: scale(1.1);
+        transform: scale(1);
     }
 }
+
+/* Banner content */
+
+.bannertext{
+    width: 100%;
+    position: relative;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+    top: 500px;
+}
+
+
