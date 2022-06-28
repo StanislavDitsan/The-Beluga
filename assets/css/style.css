@@ -143,6 +143,11 @@ h1, h2, h3, p {
     text-align: center;
     color: #fff;
     top: 500px;
+    font-size: large;
 }
 
+.bannertext p {
+    text-transform: uppercase;
+    font-size: small;
+}
 
