@@ -32,3 +32,23 @@ body {
 h1, h2, h3, p {
     font-family: 'Raleway', sans-serif;
 }
+
+/* Section hero-outer */
+
+
+#hero-image {
+    background: url(/assets/images/beluga.PNG) no-repeat center center;
+    height: 700px;
+    width:100%;
+}
+
+#cover-text {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    font-size: small;
+   
+}
