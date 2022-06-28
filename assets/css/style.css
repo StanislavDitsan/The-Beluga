@@ -57,3 +57,13 @@ h1, h2, h3, p {
     width: 100%;
     overflow: scroll; 
 }
+
+/* Section bar-wrapper */
+
+#bar-wrapper {
+    background: url(/assets/images/quiet-bar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+}
