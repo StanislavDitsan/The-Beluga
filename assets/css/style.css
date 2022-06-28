@@ -122,3 +122,13 @@ h1, h2, h3, p {
     animation-play-state: running;
 }
 
+/* Banner keyframes */
+@keyframes banner {
+    from {
+        transform: scale(0.9);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
