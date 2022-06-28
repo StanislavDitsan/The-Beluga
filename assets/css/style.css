@@ -11,3 +11,7 @@ header .navbar-brand {
 header .nav-item:last-child {
     padding-right: 1rem;
 }
+
+header .nav-item {
+    padding: 0.5rem;
+}
