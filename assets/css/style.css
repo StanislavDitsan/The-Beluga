@@ -21,6 +21,7 @@ header .nav-item {
 }
 
 /* Body */
+
 body {
     font-family: 'Releway', sans-serif;
     font-weight: 200;
@@ -34,7 +35,6 @@ h1, h2, h3, p {
 }
 
 /* Section hero-outer */
-
 
 #hero-image {
     background: url(/assets/images/beluga.PNG) no-repeat center center;
@@ -50,5 +50,10 @@ h1, h2, h3, p {
     text-align: center;
     position: relative;
     font-size: small;
-   
+}
+
+#hero-outer {
+    height: 700px;
+    width: 100%;
+    overflow: scroll; 
 }
