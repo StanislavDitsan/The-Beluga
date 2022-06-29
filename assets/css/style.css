@@ -151,3 +151,22 @@ h1, h2, h3, p {
     font-size: small;
 }
 
+
+/* Media queries */
+
+
+/* Media queries for landing page */
+
+@media screen and (min-width:200px) and (max-width: 768px) {
+    #bar-wrapper {
+        height: 200px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #box-wrapper {
+        width: auto;
+        height: auto;
+        font-size: small;
+        margin-bottom: 0%;
+    }
+}
