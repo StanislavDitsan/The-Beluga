@@ -166,6 +166,15 @@ h1, h2, h3, p {
 }
 
 
+/* Events section */
+
+.container-fluid .eventbox {
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+    text-shadow: 4px 1px 2px rgba(0, 0, 0, 0.50);
+}
+
+
 /* Media queries */
 
 
