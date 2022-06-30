@@ -138,6 +138,17 @@ h1, h2, h3, p {
     }
 }
 
+/* Banner text keyframes */
+@keyframes bannertext {
+    from {
+        transform: scale(.9);
+    }
+
+    to {
+        transform: scale(1);
+    }
+}
+
 /* Banner content */
 
 .bannertext{
@@ -148,6 +159,7 @@ h1, h2, h3, p {
     color: #fff;
     top: 500px;
     font-size: large;
+    animation-name: bannertext;
 }
 
 .bannertext p {
@@ -179,5 +191,18 @@ h1, h2, h3, p {
 @media screen and (min-width:200px) and (max-width: 768px) {
     #about {
         text-align: center;
+    }
+}
+
+@media screen and (min-width:200px) and (max-width: 768px) {
+    .bannertext {
+        text-align: center;
+        font-size: 5rem;
+        animation-name: bannertext;
+        animation-duration: 6s;
+        animation-fill-mode: forwards;
+        animation-direction: alternate-reverse;
+        animation-play-state: running;
+        
     }
 }
