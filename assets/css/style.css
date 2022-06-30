@@ -111,12 +111,12 @@ h1, h2, h3, p {
     margin-bottom: 1rem;
 }
 
-/* Banner master-class */
+/* Banner master-class section */
 
 .banner {
     width: 100%;
     height: 900px;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/assets/images/black&white.webp);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../images/black&white.webp);
     background-size: cover;
     background-position: center;
     animation-name: banner;
