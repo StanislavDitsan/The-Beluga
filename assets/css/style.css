@@ -171,7 +171,7 @@ h1, h2, h3, p {
     }
 }
 
-/* Media queries for section */
+/* Media queries for about section */
 @media screen and (min-width:200px) and (max-width: 768px) {
     #about {
         text-align: center;
