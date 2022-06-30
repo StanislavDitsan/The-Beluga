@@ -24,6 +24,10 @@ header .nav-item {
     font-family: 'Raleway', sans-serif;
 }
 
+.navbar-dark {
+    background-color: #000000;
+}
+
 /* Body */
 
 body {
