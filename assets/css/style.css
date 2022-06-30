@@ -124,7 +124,6 @@ h1, h2, h3, p {
     animation-fill-mode: forwards;
     animation-direction: alternate-reverse;
     animation-play-state: running;
-    position: absolute;
 }
 
 /* Banner keyframes */
@@ -153,8 +152,7 @@ h1, h2, h3, p {
 
 .bannertext{
     width: 100%;
-    position: relative;
-    transform: translateY(-50%);
+    transform: translateY(-200%);
     text-align: center;
     color: #fff;
     top: 500px;
@@ -195,9 +193,8 @@ h1, h2, h3, p {
 }
 
 @media screen and (min-width:200px) and (max-width: 768px) {
-    .bannertext {
+    .bannertext div{
         text-align: center;
-        font-size: 5rem;
         animation-name: bannertext;
         animation-duration: 6s;
         animation-fill-mode: forwards;
