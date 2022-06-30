@@ -102,7 +102,7 @@ h1, h2, h3, p {
     text-transform: uppercase;
 }
 
-#about-container > h2 {
+#about-container > p {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -155,7 +155,7 @@ h1, h2, h3, p {
 /* Media queries */
 
 
-/* Media queries for landing page */
+/* Media queries for landing section */
 
 @media screen and (min-width:200px) and (max-width: 768px) {
     #bar-wrapper {
@@ -168,5 +168,12 @@ h1, h2, h3, p {
         height: auto;
         font-size: small;
         margin-bottom: 0%;
+    }
+}
+
+/* Media queries for section */
+@media screen and (min-width:200px) and (max-width: 768px) {
+    #about {
+        text-align: center;
     }
 }
