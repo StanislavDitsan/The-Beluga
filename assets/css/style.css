@@ -41,7 +41,7 @@ h1, h2, h3, p {
 /* Section hero-outer */
 
 #hero-image {
-    background: url(/assets/images/beluga.PNG) no-repeat center center;
+    background: url(../images/beluga.PNG) no-repeat center center;
     height: 700px;
     width:100%;
 }
@@ -65,7 +65,7 @@ h1, h2, h3, p {
 /* Section bar-wrapper */
 
 #bar-wrapper {
-    background: url(/assets/images/quiet-bar.jpg);
+    background: url(../images/quiet-bar.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 900px;
