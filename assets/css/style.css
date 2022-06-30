@@ -41,18 +41,19 @@ h1, h2, h3, h4, h5, h6, p {
 /* Section hero-outer */
 
 #hero-image {
-    background: url(../images/beluga.PNG) no-repeat center center;
-    height: 700px;
+    background: url(../images/b.trans.bodyful.PNG) no-repeat center center;
+    height: 400px;
     width:100%;
 }
 
 #cover-text {
+    background-color: #000000;
+    padding: 11%;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
     text-align: center;
-    position: relative;
     font-size: small;
     letter-spacing: 0.5rem;
     text-shadow: 2px 1px 2px rgba(0, 0, 0, 0.20);
