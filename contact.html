@@ -109,5 +109,29 @@ crossorigin="anonymous"></script>
 integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
 crossorigin="anonymous"></script>
 
+<!--Smooth scroll to top snippet from code-boxx.com-->
+<img src="./assets/images/up-arrow.svg" id="backtop" onclick="totop()"/>
+
+<!--Smooth scroll to top snippet from code-boxx.com-->
+<script>
+    // (A) SMOOTH SCROLL TO TOP
+function totop () {
+  window.scroll({
+    top: 0, left: 0, behavior: "smooth"
+  });
+}
+
+// (B) SHOW/HIDE BUTTON
+function togtop () {
+  if (window.scrollY >= 100) {
+    document.getElementById("backtop").classList.add("show");
+  } else {
+    document.getElementById("backtop").classList.remove("show");
+  }
+}
+window.addEventListener("scroll", togtop);
+window.addEventListener("resize", togtop);
+</script>
+
 </body>
 </html>
