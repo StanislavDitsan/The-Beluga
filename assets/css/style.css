@@ -306,6 +306,9 @@ footer {
         font-size: small;
         margin-bottom: 0%;
     }
+    .carousel-control-next {
+        margin-top: 3rem;
+    }
 }
 
 /* Media queries for about section */
