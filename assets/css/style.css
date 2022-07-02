@@ -195,6 +195,18 @@ h1, h2, h3, h4, h5, h6, p {
     text-shadow: 1px 1px 2px rgb(255, 255, 255)
 }
 
+/* Gallery */
+
+.carousel {
+    height: 100vh;
+    width: 100%;
+    overflow:hidden;
+}
+
+.carousel .carousel-inner {
+    height:100%;    
+}
+
 /* Footer */
 
 footer {
