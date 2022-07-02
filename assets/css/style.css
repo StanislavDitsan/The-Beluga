@@ -314,6 +314,8 @@ footer {
         font-size: small;
         margin-bottom: 0%;
     }
+
+    /* Media queries for gallery carousel */
     .carousel-control-next {
         margin-top: 3rem;
     }
@@ -321,6 +323,9 @@ footer {
 
 /* Media queries for about section */
 @media screen and (min-width:480px) and (max-width: 768px) {
+
+
+    /* Media queries for cover-text */
     #cover-text > h2 {
         letter-spacing: normal;
         padding-bottom: 3rem;
