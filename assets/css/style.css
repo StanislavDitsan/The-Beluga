@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-family: 'Raleway', sans-serif;
 }
 
-/* Section hero-outer */
+/* Logo and welcome section  */
 
 #hero-image {
     background: url(../images/b.trans.bodyful.PNG) no-repeat center center;
@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 
 
-/* Section bar-wrapper */
+/*Landing Section bar-wrapper */
 
 #bar-wrapper {
     background: url(../images/quiet-bar.jpg) no-repeat fixed;
