@@ -55,7 +55,45 @@
         </nav>
     </header>
 
-    Contact
+    <section>
+        <div class="contact-wrapper">
+            <form>
+                <fieldset>
+                    <legend>Book Now or Send Inquiry</legend>
+
+                    <label for="fname">First Name:</label>
+                    <input id="fname" name="first_name" type="text" class="text-input" required>
+
+                    <label for="lname">Last Name:</label>
+                    <input id="lname" name="last_name" type="text" class="text-input" required>
+
+                    <label for="email">Email Address:</label>
+                    <input type="email" id="email" name="email_address" class="text-input">
+
+                    <label for="phone">Phone Number:</label>
+                    <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+                    <small>Format: +353 XXXX XXX XX</small>
+
+                    <legend>Type of booking</legend>
+
+                    <input type="radio" id="masterclass" name="type_of_booking" value="masterclass" required>
+                    <label for="masterclass">Masterclass</label>
+
+                    <input type="radio" id="events" name="type_of_booking" value="events" required>
+                    <label for="trail">Events</label>
+
+                    <input type="radio" id="other" name="type_of_booking" value="other" required>
+                    <label for="both">Other</label>
+
+                    <legend><label for="text-input">Write your inquiry here:</label></legend>
+                    <textarea id="text-input" name="text-input" rows="4" cols="50">
+                    </textarea>
+
+                    <input class="booking-inquiry" type="submit" value="Send!">
+                </fieldset>
+            </form>
+        </div>
+    </section>
 
     <!--Opening hours section-->
 
