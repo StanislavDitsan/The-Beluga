@@ -54,6 +54,7 @@ h1, h2, h3, h4, h5, h6, p {
 #cover-text {
     background-color: #000000;
     padding: 11%;
+    padding-bottom: 18%;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #ffffff;
