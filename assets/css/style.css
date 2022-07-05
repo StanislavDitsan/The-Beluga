@@ -375,10 +375,16 @@ footer {
 /* Media queries for landing section */
 
 @media screen and (min-width:320px) and (max-width: 480px) {
-    #cover-text > h2 {
-        letter-spacing: normal;
-        padding-bottom: 3rem;
+    
+    #cover-text {
+        letter-spacing: 3px;
+        padding-bottom: 5rem;
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
 
+    #cover-text > p {
+        padding-top: 1rem;
     }
 
     #bar-wrapper {
@@ -407,7 +413,7 @@ footer {
 
 
     /* Media queries for cover-text */
-    #cover-text > h2 {
+    #cover-text h2 {
         letter-spacing: normal;
         padding-bottom: 3rem;
 
