@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6, p {
 /* Logo and welcome section  */
 
 #hero-image {
-    background: url(../images/b.trans.bodyful.PNG) no-repeat center center;
+    background: url(../images/beluga.PNG) no-repeat center center;
     height: 400px;
     width:100%;
 }
@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6, p {
 .banner {
     width: 100%;
     height: 900px;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../images/black&white.webp);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../images/bartender-pouring-a-drink.webp);
     background-size: cover;
     background-position: center;
     animation-name: banner;
