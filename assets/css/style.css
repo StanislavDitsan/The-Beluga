@@ -287,8 +287,11 @@ input {
 /* Footer */
 
 footer {
-    height: 80px;
-    
+    height: 80px;  
+}
+
+footer, h3 {
+    font-size: 16px;
 }
 
 .social-net {
