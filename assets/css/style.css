@@ -69,13 +69,6 @@ h1, h2, h3, h4, h5, h6, p {
 
 /*Landing Section bar-wrapper */
 
-#bar-wrapper {
-    background: url(../images/quiet-bar.jpg) no-repeat fixed;
-    background-size: cover;
-    height: 900px;
-    width: 100%;
-    position: relative;
-}
 
 #box-wrapper {
     color: #ffffff;
@@ -86,6 +79,8 @@ h1, h2, h3, h4, h5, h6, p {
     padding: 20px;
     font-size: large;
     background-color: rgb(0, 0, 0 ,0.6);
+    position: relative;
+    transform: translateY(-110%);
 }
 
 /* About section */
@@ -388,14 +383,6 @@ footer {
         padding-top: 1rem;
     }
 
-    #bar-wrapper {
-        width: 100vw;
-        height: 100vh;
-        background: url(../images/quiet-bar.jpg);
-        background-size: cover;
-        background-position: center, center;
-    }
-
     #box-wrapper {
         width: auto;
         height: auto;
@@ -410,7 +397,7 @@ footer {
 }
 
 /* Media queries for about section */
-@media screen and (min-width:480px) and (max-width: 768px) {
+@media screen and (min-width:320px) and (max-width: 425px) {
 
 
     /* Media queries for cover-text */
@@ -420,18 +407,24 @@ footer {
 
     }
 
-    #bar-wrapper {
-        background-position: center center;
-        background-size: cover;
-    }
 
     #about {
         text-align: center;
     }
 }
 
+@media screen and (min-width:320px) and (max-width: 768px) {
+
+    #bar-wrapper {
+        background-position: center center;
+        background-size: cover;
+    }
+}
+
+
 /* Media queries for master class "text" section */
 @media screen and (min-width:200px) and (max-width: 768px) {
+
     .bannertext div{
         text-align: center;
         animation-name: bannertext;
