@@ -307,6 +307,10 @@ footer {
     color: #000000;
 }
 
+.social-net i:hover {
+    transform: scale(1.5); 
+}
+
 /* Drinks.html page */
 
 .vid-container {
