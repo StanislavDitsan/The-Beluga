@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6, p {
 /* Gallery */
 
 .carousel {
-    height: 100vh;
+    height: 100%;
     width: 100%;
     overflow:hidden;
 }
@@ -230,7 +230,10 @@ h1, h2, h3, h4, h5, h6, p {
 .carousel-control-next, .carousel-control-prev {
     margin-top: 3rem;
 }
-    
+
+.note {
+    text-align: center;
+}
 
 /* Contact */
 
@@ -405,6 +408,10 @@ footer > p {
 
     .carousel-control-next-icon, .carousel-control-prev-icon {
         visibility: hidden;
+    }
+
+    .carousel .carousel-inner { 
+        padding: 0;
     }
 }
 
