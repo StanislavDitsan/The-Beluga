@@ -290,6 +290,10 @@ footer {
     height: 80px;  
 }
 
+footer > p {
+    text-align: center;
+}
+
 .social-net {
     text-align: center;
     padding: 5rem;
