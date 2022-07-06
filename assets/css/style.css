@@ -292,18 +292,17 @@ footer {
 
 .social-net {
     text-align: center;
+    padding: 5rem;
 }
 
 .social-net li {
     display: inline;
-    padding-right: 30px;
+
 }
 
 .social-net i {
     font-size: 200%;
-    margin: 1%;
-    padding-top: 10%;
-    padding-bottom: 14%;
+    margin: 5%;
     color: #000000;
 }
 
@@ -415,7 +414,20 @@ footer {
     #about {
         text-align: center;
     }
+
+    /* Footer */
+    .social-net i {
+        margin: 3%;
+    }
+    
+    .social-net {
+        text-align: center;
+        padding: 1rem;
+        padding-bottom: 2rem;
+    }
+        
 }
+
 
 @media screen and (min-width:320px) and (max-width: 768px) {
 
