@@ -398,8 +398,13 @@ footer > p {
     }
 
     /* Media queries for gallery carousel */
-    .carousel-control-next {
+    .carousel-control-next,  .carousel-control-prev {
         margin-top: 3rem;
+        margin-bottom: 22rem;
+    }
+
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+        transform: translateY(-1rem);
     }
 }
 
@@ -438,6 +443,16 @@ footer > p {
     #bar-wrapper {
         background-position: center center;
         background-size: cover;
+    }
+
+    /* Media queries for gallery carousel */
+    .carousel-control-next,  .carousel-control-prev {
+        margin-top: 3.5rem;
+        margin-bottom: 21rem;
+    }
+
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+        transform: translateY(-1rem);
     }
 }
 
