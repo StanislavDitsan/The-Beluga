@@ -113,17 +113,17 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - The menus were embedded from [Canva.com](https://www.canva.com/) meaning they can be easily edited by the business owner and instantly publish any updates. Like price increases or just a simple menu change.
 
-- Both menu‘s feature button which enables the user to easily share the menus on social media networks.
+- Both menu‘s feature button which enables the user to easily share the menus on social media networks.![Menu-feature](readme.md-files/menu-feature.gif)
 
 ## Gallery 
 
-- For the gallery section I decided to go with the bootstrap carousel to make it easier for the user to scroll through the photos. 
+- For the gallery section I decided to go with the bootstrap carousel to make it easier for the user to scroll through the photos.![Gallery](readme.md-files/gallery.gif)
 
 ## Contacts
 
 - The contact page includes a form which allows users to easily get in touch with any kind of enquiries or related questions.
 
-- It also has general contact information such as phone email and address.
+- It also has general contact information such as phone email and address. ![Contact-form](readme.md-files/contact-form.png)
 
 ### Extra feature 
 
@@ -198,8 +198,28 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 - Used to generate the live site images, and to test responsiveness.
 
 
-
 ## Testing
+
+### Lighthouse
+- Chrome DevTools' Lighthouse is used to audit a site for performance, accessibility, progress, and SEO.
+
+#### Here are some of the outcomes
+
+#### Desktop
+
+![Lighthouse-index](testing/lighthouse-index.png)
+
+![Lighthouse-drinks](testing/lighthouse-drinks.png)
+
+![Lighthouse-contact](testing/lighthouse-contact.png)
+
+#### Mobile
+
+![Light-mobile-index](testing/light-mobile-index.png)
+
+![Light-mobile-drinks](testing/light-mobile-drinks.png)
+
+![Light-mobile-contact](testing/light-mobile-contact.png)
 
 ## Bugs
 
