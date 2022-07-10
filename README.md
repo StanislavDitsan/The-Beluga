@@ -10,31 +10,31 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - Access the website from any piece of technology  such as smartphone, tablet, laptop or computer and be able to view all of the original content without any loss.
 
-- Navigate the website across all pages 
+- Navigate the website across all pages. 
 
-- Experience high-quality content including video & gallery 
+- Experience high-quality content including video & gallery. 
 
-- Experience simple but modern design
+- Experience simple but modern design.
 
-- Be able to view and  instantly share drink & food menus with your friends or colleagues before the upcoming booking 
+- Be able to view and  instantly share drink & food menus with your friends or colleagues before the upcoming booking. 
 
-- To see a brief description about what the venue is providing 
+- To see a brief description about what the venue is providing. 
 
-- Easily be able to view information about upcoming events
+- Easily be able to view information about upcoming events.
 
-- Ability to get in contact or to make a booking or to send inquiry
+- Ability to get in contact or to make a booking or to send inquiry.
 
-- Ability to quickly view working hours and the location
+- Ability to quickly view working hours and the location.
 
 ## Main objectives 
 
-- Expose the business to more customers 
+- Expose the business to more customers. 
 
-- Increase bookings by providing clear booking information
+- Increase bookings by providing clear booking information.
 
-- Advertise your upcoming events to boost sales(cocktail masterclasses, music performances etc )
+- Advertise your upcoming events to boost sales(cocktail masterclasses, music performances etc)
 
-- Ensure flawless SEO, to boost Google search results
+- Ensure flawless SEO, to boost Google search results.
 
 ## Features
 
@@ -113,7 +113,9 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - The menus were embedded from [Canva.com](https://www.canva.com/) meaning they can be easily edited by the business owner and instantly publish any updates. Like price increases or just a simple menu change.
 
-- Both menu‘s feature button which enables the user to easily share the menus on social media networks.![Menu-feature](readme.md-files/menu-feature.gif)
+- Both menu‘s feature button which enables the user to easily share the menus on social media networks.
+
+![Menu-feature](readme.md-files/menu-feature.gif)
 
 ## Gallery 
 
@@ -153,6 +155,26 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 
 ## Wireframes
+### Desktop 
+ - Index & Menu 
+![Wireframe](wireframes/wireframe-index+menu.png)
+
+- Gallery & Contact
+![Wireframe](wireframes/wireframe-gallery+contact.png)
+
+### Tablet
+- Index & Menu 
+![Wireframe-tablet](wireframes/wire-tablet-index+menu.png)
+
+- Gallery & Contact
+![Wireframe-tablet](wireframes/wire-tablet-gallery+contact.png)
+
+### Mobile
+- Index & Menu
+![Wireframe-mobile](wireframes/wire-mobile-index+menu.png)
+
+- Gallery & Contact
+![Wireframe-mobile](wireframes/wire-mobile-gallery+contact.png)
 
 ## Languages Used
 
@@ -179,11 +201,11 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 ### [Git](https://gitpod.io/)
 
-- Gitpod was used to edit code within the project for the site and to push commitments 
+- Gitpod was used to edit code within the project for the site and to push commitments. 
 
 ### [GitHub ](https://github.com/)
 
-- GitHub was used to create the repository and store the project code after it has been pushed from Git
+- GitHub was used to create the repository and store the project code after it has been pushed from Git.
 
 ### [Balsamiq](https://balsamiq.com/wireframes/)
 
