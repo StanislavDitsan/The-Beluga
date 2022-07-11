@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 /* Button book now */
 
-button {
+.booknow {
     background-color: #fff;
     color: rgb(0, 0, 0);
     padding: 15px 80px;
