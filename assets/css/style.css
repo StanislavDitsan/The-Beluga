@@ -251,7 +251,7 @@ fieldset {
     
 }
 
-legend {
+.headerform {
     background-color: #ffffff;
     color: #000000;
     padding: 5px 10px;
