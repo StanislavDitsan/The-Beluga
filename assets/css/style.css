@@ -198,21 +198,23 @@ h1, h2, h3, h4, h5, h6, p {
 #opening{
    padding: 3rem 3rem;
    background-color: #000000;
+   text-align: center;
+   color: #fff;
 }
 
-#opening div{
-    text-align: center;
-    color: #fff;
-}
-
-#opening h1 {
+#opening h2 {
     letter-spacing: 0.5rem;
     font-size: 30px;
     text-shadow: 1px 1px 2px rgb(255, 255, 255)
 }
 
-#opening h3 {
-    font-size: 18px;
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    font-family: 'Raleway', sans-serif ;
 }
 
 /* Gallery */
