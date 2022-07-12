@@ -51,7 +51,9 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 - Navigation bar code snippet was taken from bootstrap 4.6 getbootstrap.com
 
 - Navigation bar is built to work on both big and small screens.
-![Nav-bar-mobile](readme.md-files/mobile-nav-bar.GIF)
+<p align="center">
+ <img src="readme.md-files/mobile-nav-bar.GIF">
+</p>
 
 ### Landing page
 
@@ -114,18 +116,22 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 - The menus were embedded from [Canva.com](https://www.canva.com/) meaning they can be easily edited by the business owner and instantly publish any updates. Like price increases or just a simple menu change.
 
 - Both menu‘s feature button which enables the user to easily share the menus on social media networks.
-
-![Menu-feature](readme.md-files/menu-feature.gif)
+<p align="center">
+ <img src="readme.md-files/menu-feature.gif">
+</p>
 
 ## Gallery 
 
-- For the gallery section I decided to go with the bootstrap carousel to make it easier for the user to scroll through the photos.![Gallery](readme.md-files/gallery.gif)
+- For the gallery section I decided to go with the bootstrap carousel to make it easier for the user to scroll through the photos.
+<p align="center">
+ <img src="readme.md-files/gallery.gif">
+</p>
 
 ## Contacts
 
 - The contact page includes a form which allows users to easily get in touch with any kind of enquiries or related questions.
 
-- It also has general contact information such as phone email and address. ![Contact-form](readme.md-files/contact-form.png)
+- It also has general contact information such as phone email and address.![Contact-form](readme.md-files/contact-form.png)
 
 ### Extra feature 
 
@@ -285,6 +291,7 @@ I added margin-top and width
 ![Bug](testing/bug2-after.png)
 
 3. When the navigation bar was expanded on small screens, the carousel control arrows did not drop down with it, resulting arrows overlying navigation buttons
+
 <p align="center">
  <img src="testing/Bug3-mobile.png">
 </p>
