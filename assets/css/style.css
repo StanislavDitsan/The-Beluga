@@ -369,7 +369,7 @@ footer > p {
     z-index: 999;
   
     /* (B) HIDDEN BY DEFAULT */
-    visibility: none;
+    visibility: hidden;
     opacity: 0;
   
     /* (C) COSMETICS */
