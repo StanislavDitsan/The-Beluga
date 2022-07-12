@@ -238,6 +238,7 @@ table {
 
 .carousel-control-next, .carousel-control-prev {
     margin-top: 3rem;
+    width: 30px;
 }
 
 .note {
