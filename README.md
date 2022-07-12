@@ -155,6 +155,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 
 ## Wireframes
+ The Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/)
 ### Desktop 
  - Index & Menu 
 ![Wireframe](wireframes/wireframe-index+menu.png)
@@ -243,9 +244,26 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 ![Light-mobile-contact](testing/light-mobile-contact.png)
 
+### Code Validation
+
+#### W3C HTML Validator
+- Home Page
+![W3C-HTML](testing/w3-index.png)
+- Menu
+![W3C-HTML](testing/w3-drinks.png)
+![W3C-HTML](testing/w3-snacks.png)
+- Gallery
+![W3C-HTML](testing/w3-gallery.png)
+- Contact
+![W3C-HTML](testing/w3-contact.png)
+
+#### W3C CSS Validator
+#### CSS validator passed with no errors
+![W3C-CSS](testing/w3-css.png)
+
 ## Bugs
 
-## Validator Testing
+
 
 ## Deployment
 
