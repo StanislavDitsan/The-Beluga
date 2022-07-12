@@ -156,6 +156,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 ## Wireframes
  The Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/)
+
 ### Desktop 
  - Index & Menu 
 ![Wireframe](wireframes/wireframe-index+menu.png)
@@ -226,7 +227,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 ### Lighthouse
 - Chrome DevTools' Lighthouse is used to audit a site for performance, accessibility, progress, and SEO.
 
-#### Here are some of the outcomes
+### Here are some of the outcomes
 
 #### Desktop
 
@@ -246,7 +247,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 ### Code Validation
 
-#### W3C HTML Validator
+### W3C HTML Validator
 - Home Page
 ![W3C-HTML](testing/w3-index.png)
 - Menu
@@ -257,12 +258,40 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 - Contact
 ![W3C-HTML](testing/w3-contact.png)
 
-#### W3C CSS Validator
+### W3C CSS Validator
 #### CSS validator passed with no errors
 ![W3C-CSS](testing/w3-css.png)
 
 ## Bugs
 
+### I discovered a few bugs while working on this project
+
+1. When I added the bootstrap link rel="stylesheet" my css stylesheet stopped working
+
+### How did I solve this problem? 
+I simply moved the bootstrap link above my href="assets/css/style.css"
+![Bug](testing/bug1.png)
+
+2. Carousel control buttons for scrolling overlayed navigation bar preventing use of some navigation buttons
+
+![Bug](testing/bug2-before.png)
+### How did I solve this problem?
+
+I added margin-top and width
+.carousel-control-next, .carousel-control-prev {
+    margin-top: 3rem;
+    width: 30px;
+}
+![Bug](testing/bug2-after.png)
+
+3. When the navigation bar was expanded on small screens, the carousel control arrows did not drop down with it, resulting arrows overlying navigation buttons
+<p align="center">
+ <img src="testing/Bug3-mobile.png">
+</p>
+
+### How did I solve this problem?
+I couldn't figure out how to fix this problem so that I could keep the arrows when expanding the navigation bar on small screens.
+My solution was to simply hide the arrow buttons and place a note beneath the gallery that said "Use the side screens to navigate."
 
 
 ## Deployment
