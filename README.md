@@ -5,8 +5,8 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 #### To view the website click [here](https://stanislavditsan.github.io/The-Beluga/)
 
  
-## User Experience
-### As a first time visitor I am able to: 
+# User Experience
+## As a first time visitor I am able to: 
 
 - Access the website from any piece of technology  such as smartphone, tablet, laptop or computer and be able to view all of the original content without any loss.
 
@@ -26,7 +26,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - Ability to quickly view working hours and the location.
 
-## Main objectives 
+# Main objectives 
 
 - Expose the business to more customers. 
 
@@ -36,9 +36,9 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - Ensure flawless SEO, to boost Google search results.
 
-## Features
+# Features
 
-### Navigation bar 
+## Navigation bar 
 
 ![Nav-bar](readme.md-files/full-nav-bar.png)
 
@@ -55,7 +55,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
  <img src="readme.md-files/mobile-nav-bar.GIF">
 </p>
 
-### Landing page
+## Landing page
 
 ![Landing-page-logo](readme.md-files/landing-page-logo.png)
 
@@ -64,33 +64,33 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 ![Landing-page-bar](readme.md-files/landing-page-bar.png)
 
 
-### About us 
+## About us 
 
 - This section aims to describe the lounge bar and all of its features. It gives the user a brief overview of the business and entices them to learn more.
 
 ![About-Us](readme.md-files/about-us.png)
 
-### Masterclasses 
+## Masterclasses 
 
 - This section is for those having to look for an awesome activity to share with their friends in a fun way by booking our cocktail class.
 
 ![Masterclasses](readme.md-files/masterclass.png)
 
 
-### Events 
+## Events 
 
 - This section is dedicated to up-and-coming events with a clear way to book. It also lists the dates, times, schedule and price.
 
 ![Events](readme.md-files/events.png)
 
-### Opening hours 
+## Opening hours 
 
 - Clearly listed the opening days and hours for our users.
 
 ![Opening-hours](readme.md-files/opening-hours.png)
 
 
-### Footer 
+## Footer 
 
 - Links to The Beluga's important social media, location and a phone call button are provided in the footer section.
 
@@ -100,7 +100,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 ![Footer](readme.md-files/footer.png)
 
-### Menu
+## Menu
 - The menu are separated into two sections one for the drinks and one for the snacks.
 
 - The drinks menu has a welcome video showing A mouthwatering cocktail to tempt users to keep scrolling.
@@ -111,7 +111,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - To keep with the marine theme the food menu is called bait.
 
-#### Extra feature for the menus
+## Extra feature for the menus
 
 - The menus were embedded from [Canva.com](https://www.canva.com/) meaning they can be easily edited by the business owner and instantly publish any updates. Like price increases or just a simple menu change.
 
@@ -133,63 +133,63 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - It also has general contact information such as phone email and address.![Contact-form](readme.md-files/contact-form.png)
 
-### Extra feature 
+## Extra feature 
 
 - Quick scroll to the top arrow button is present across all web pages.
 
-- Code snippet was taken from code-boxx.com 
+- Code snippet was taken from [Code Boxx](https://code-boxx.com/) 
 
-## Design
+# Design
 
-### Color Scheme
+## Color Scheme
 
 - The two primary colors are black and white.
 
-### Imagery 
+## Imagery 
 
 - The meaningful visual images are intended to be eye-catching and draw the user's attention. It also has a modern, vibrant appearance.
 
-### Typography
+## Typography
 
 - Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini.
 
 - This font would be the ideal choice for all different types of modern and old-style designs.
 
-### Icons
+## Icons
 
 - The icons used in this project are provided by Font Awesome. They were used as social media icons and buttons to contact and find the venue.
 
 
-## Wireframes
+# Wireframes
  The Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/)
 
-### Desktop 
+## Desktop 
  - Index & Menu 
 ![Wireframe](wireframes/wireframe-index+menu.png)
 
 - Gallery & Contact
 ![Wireframe](wireframes/wireframe-gallery+contact.png)
 
-### Tablet
+## Tablet
 - Index & Menu 
 ![Wireframe-tablet](wireframes/wire-tablet-index+menu.png)
 
 - Gallery & Contact
 ![Wireframe-tablet](wireframes/wire-tablet-gallery+contact.png)
 
-### Mobile
+## Mobile
 - Index & Menu
 ![Wireframe-mobile](wireframes/wire-mobile-index+menu.png)
 
 - Gallery & Contact
 ![Wireframe-mobile](wireframes/wire-mobile-gallery+contact.png)
 
-## Languages Used
+# Languages Used
 
 - [HTML](https://html.com/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
  
-## Technologies Used & Tools
+# Technologies Used & Tools
 
 ### [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
@@ -207,7 +207,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 
-### [Git](https://gitpod.io/)
+### [GitPod](https://gitpod.io/)
 
 - Gitpod was used to edit code within the project for the site and to push commitments. 
 
@@ -228,14 +228,14 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 - Used to generate the live site images, and to test responsiveness.
 
 
-## Testing
+# Testing
 
-### Lighthouse
+## Lighthouse
 - Chrome DevTools' Lighthouse is used to audit a site for performance, accessibility, progress, and SEO.
 
-### Here are some of the outcomes
+## Here are some of the outcomes
 
-#### Desktop
+### Desktop
 
 ![Lighthouse-index](testing/lighthouse-index.png)
 
@@ -243,7 +243,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 ![Lighthouse-contact](testing/lighthouse-contact.png)
 
-#### Mobile
+### Mobile
 
 ![Light-mobile-index](testing/light-mobile-index.png)
 
@@ -251,7 +251,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 ![Light-mobile-contact](testing/light-mobile-contact.png)
 
-### Code Validation
+# Code Validation
 
 ### W3C HTML Validator
 - Home Page
@@ -264,24 +264,33 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 - Contact
 ![W3C-HTML](testing/w3-contact.png)
 
-### W3C CSS Validator
-#### CSS validator passed with no errors
+## W3C CSS Validator
+### CSS validator passed with no errors
 ![W3C-CSS](testing/w3-css.png)
 
-## Bugs
+## Browser Compatibility
+- The site was tested on Google Chrome, Safari, and Mozilla Firefox and found to be error-free. Appearance, functionality, and responsiveness remained consistent across a variety of device sizes and browsers.
 
-### I discovered a few bugs while working on this project
+## Responsiveness
+- Responsive design tests were performed using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
 
-1. When I added the bootstrap link rel="stylesheet" my css stylesheet stopped working
+- I also tested it on an iPhone 8 Plus, an iPhone 11, an iPad Pro, and a MacBook Air.
 
-### How did I solve this problem? 
+# Bugs
+
+## I discovered a few bugs while working on this project.
+
+1. When I added the bootstrap link rel="stylesheet" my css stylesheet stopped working.
+
+## How did I solve this problem?
+
 I simply moved the bootstrap link above my href="assets/css/style.css"
 ![Bug](testing/bug1.png)
 
 2. Carousel control buttons for scrolling overlayed navigation bar preventing use of some navigation buttons
-
 ![Bug](testing/bug2-before.png)
-### How did I solve this problem?
+
+## How did I solve this problem?
 
 I added margin-top and width
 .carousel-control-next, .carousel-control-prev {
@@ -296,12 +305,53 @@ I added margin-top and width
  <img src="testing/Bug3-mobile.png">
 </p>
 
-### How did I solve this problem?
+## How did I solve this problem?
+
 I couldn't figure out how to fix this problem so that I could keep the arrows when expanding the navigation bar on small screens.
 My solution was to simply hide the arrow buttons and place a note beneath the gallery that said "Use the side screens to navigate."
 
 
-## Deployment
+# Deployment
+
+## This project was created with the [GitPod](https://gitpod.io/) by committing to git and pushing to [GitHub ](https://github.com/).
+
+The following steps were taken to deploy this page to GitHub pages from its specific GitHub repository:
+
+1. The first step is to sign in to Github and navigate to the appropriate repository.
+2. Click the settings button at the top of the repository.
+3. Scroll down to the section GitHub Pages.
+4. Select the Main branch under Source.
+5. Hit Save button, and the website is now deployed.
+6. The webpage's URL can be found at the top of the GitHub Pages section.
+
+## How should this project be carried out locally?
+
+To clone this project from GitHub, follow these steps:
+
+1. Access the Project GitHub repository.
+
+2. Under the repository name click on the ‘Code’ tab
+
+3. Click the clipboard icon in the clone box's HTTPS tab.
+
+4. Open GitBash in your IED.
+
+5. Change your current working directory to the location where the cloned directory will be created.
+
+6. Type "git clone" and then paste the GitHub URL.
+
+7. Press enter and the local clone will be created.
+
+
+## How to Fork the Repository?
+
+Forking the repository creates an alternate copy that can be edited without affecting the original.
+
+1. Log in to Github and navigate to the desired repository.
+2. Click "fork" at the top of the repository.
+3. A copy of your github account will now be created.
+
+
 
 ## Credits
 
