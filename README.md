@@ -339,7 +339,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 # Code Validation
 
-### W3C HTML Validator
+## W3C HTML Validator
 - Home Page
 ![W3C-HTML](testing/w3-index.png)
 - Menu
