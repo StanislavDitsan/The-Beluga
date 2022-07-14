@@ -4,6 +4,88 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
  
 #### To view the website click [here](https://stanislavditsan.github.io/The-Beluga/)
 
+# Table of Content
+- [User Experience](#user-experience)
+
+  * [UX](#user-experience)
+
+  * [Main Objectives](#main-objectives)
+
+- [Features](#features)
+
+  * [Navigation bar](#navigation-bar)
+
+  * [Landing page](#landing-page)
+
+  * [About us ](#about-us )
+
+  * [Masterclasses](#masterclasses)
+
+  * [Events](#events)
+
+  * [Opening hours](#opening-hours)
+
+  * [Footer](#footer)
+
+  * [Menu](#menu)
+
+  * [Extra feature for the menus](#extra-feature)
+
+  * [Gallery](#gallery)
+
+  * [Contacts](#contacts)
+
+  * [Extra feature](#extra-feature)
+
+- [Design](#design)
+
+  * [Color Scheme](#color-Scheme)
+
+  * [Imagery](#imagery)
+
+  * [Typography](#typography)
+
+  * [Icons](#icons)
+
+- [Wireframes](#wireframes)
+
+  * [Desktop](#desktop)
+
+  * [Tablet](#tablet)
+
+  * [Mobile](#mobile)
+
+- [Languages Used](#languages-used)
+
+- [Technologies Used and Tools](#technologies-used-and-tools)
+
+- [Testing](#testing)
+
+  * [Lighthouse](#lighthouse)
+
+  * [Code Validation](#code-validation)
+
+  * [Browser Compatibility](#browser-compatibility)
+
+  * [Responsiveness](#responsiveness)
+
+- [Bugs](#bugs)  
+
+- [Deployment](#deployment) 
+
+- [Credits](#credits)
+
+  * [Content](#content)
+
+  * [Media](#media)
+
+  * [Acknowledgements](#acknowledgements)
+
+
+
+
+  
+
  
 # User Experience
 ## As a first time visitor I am able to: 
@@ -26,7 +108,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - Ability to quickly view working hours and the location.
 
-# Main objectives 
+# Main Objectives 
 
 - Expose the business to more customers. 
 
@@ -137,7 +219,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - Quick scroll to the top arrow button is present across all web pages.
 
-- Code snippet was taken from [Code Boxx](https://code-boxx.com/) 
+- Code snippet was taken from [Code Boxx](https://code-boxx.com/).
 
 # Design
 
@@ -189,7 +271,7 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 - [HTML](https://html.com/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
  
-# Technologies Used & Tools
+# Technologies Used and Tools
 
 ### [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
@@ -226,6 +308,10 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 ### [Am I Responsive](https://ui.dev/amiresponsive/)
 
 - Used to generate the live site images, and to test responsiveness.
+
+### [W3C Markup Validation Service](https://validator.w3.org/)
+
+- This service was used to check the HTML and CSS files for errors.
 
 
 # Testing
@@ -318,10 +404,15 @@ My solution was to simply hide the arrow buttons and place a note beneath the ga
 The following steps were taken to deploy this page to GitHub pages from its specific GitHub repository:
 
 1. The first step is to sign in to Github and navigate to the appropriate repository.
+
 2. Click the settings button at the top of the repository.
+
 3. Scroll down to the section GitHub Pages.
+
 4. Select the Main branch under Source.
+
 5. Hit Save button, and the website is now deployed.
+
 6. The webpage's URL can be found at the top of the GitHub Pages section.
 
 ## How should this project be carried out locally?
@@ -348,15 +439,38 @@ To clone this project from GitHub, follow these steps:
 Forking the repository creates an alternate copy that can be edited without affecting the original.
 
 1. Log in to Github and navigate to the desired repository.
+
 2. Click "fork" at the top of the repository.
+
 3. A copy of your github account will now be created.
 
+# Credits
+- By using [Stack Overflow ](https://stackoverflow.com/) many code problems have been solved. 
 
+- [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) library was used throughout the project, primarily to make the site responsive.
 
-## Credits
+- To add a quick scroll arrow to the top, a code snippet from [Code Boxx](https://code-boxx.com/) was used.
+
+- [Canva](https://www.canva.com/) was used to create beautiful menus that were then embedded in HTML. Logo was created by Canva as well.
+
+- [W3Schools](https://www.w3schools.com/) is used for inspiration, ideas, and problem solving.
+
+-  The README.md was inspired by several other students I came across and [Code Institute Solutions](https://github.com/Code-Institute-Solutions).
+
+- [Font Awesome](https://fontawesome.com/) was used to include footer icons such as social media and contact buttons.
 
 ### Content
+- All content created by Stanislav Ditsan
 
 ### Media 
 
+- All project images and video are from [Pexels](https://www.pexels.com/)
+
+- Arrow icon button for quick scroll to top was used by [SVGrepo](https://www.pexels.com/)
+
 ## Acknowledgements
+- I want to express my gratitude to Harry Dhillon, my course mentor, for his support and direction during the project.
+
+- I also want to thank my wife, who has helped keep me calm and focused, as well as other of my coworkers who have had a similarly challenging route.
+
+- I appreciate the assistance with certain technical challenges from Codeinstitute [Student Support](https://learn.codeinstitute.net/ci_support/diplomainsoftwaredevelopmentecommerce/support/).
