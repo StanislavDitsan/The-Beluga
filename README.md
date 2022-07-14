@@ -313,6 +313,10 @@ The Beluga Lounge Bar is a brand new venue in the heart of Dublin. To differenti
 
 - This service was used to check the HTML and CSS files for errors.
 
+### [Favicon & App Icon Generator](https://www.favicon-generator.org/)
+
+- Used to create a site favicon.
+
 
 # Testing
 
