@@ -284,13 +284,6 @@ input {
     
 }
 
-.contact-info, h1 {
-    font-size: 30px;
-}
-
-.contact-info, h2 {
-    font-size: 18px;
-}
 
 .contact-info {
     border: 2px solid black;
@@ -453,11 +446,6 @@ footer > p {
 
 
 @media screen and (min-width:320px) and (max-width: 768px) {
-
-    #bar-wrapper {
-        background-position: center center;
-        background-size: cover;
-    }
 
     /* Media queries for gallery carousel */
     .carousel-control-next,  .carousel-control-prev {
